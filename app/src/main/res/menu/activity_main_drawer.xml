@@ -26,7 +26,6 @@
     <group
         android:id="@+id/Communicate"
         android:checkableBehavior="single"
-        android:title="@string/stories"
         android:visible="true">
 
 
